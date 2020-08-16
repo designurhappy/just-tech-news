@@ -1,0 +1,32 @@
+{
+  "name": "just-tech-news",
+  "version": "1.0.0",
+  "description": "just tech news",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designurhappy/just-tech-news.git"
+  },
+  "keywords": [
+    "just",
+    "tech",
+    "news"
+  ],
+  "author": "Alicia Ross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/designurhappy/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/designurhappy/just-tech-news#readme"
+}
