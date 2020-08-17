@@ -1,6 +1,7 @@
 const User = require('./User');
+const Post = requre("./Post");
 
-module.exports = { User };
+module.exports = { User, Post };
 
 const router = require('express').Router();
 
